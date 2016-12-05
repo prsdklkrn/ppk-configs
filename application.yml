@@ -1,2 +1,6 @@
 welcome:
   message: I am appication.yml
+  
+metrics:
+  console:
+    enabled: true
